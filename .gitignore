@@ -3,6 +3,7 @@ node_modules
 
 # VuePress temp directory
 .temp
+.cache
 
 # VSCode Folder
 .vscode/
