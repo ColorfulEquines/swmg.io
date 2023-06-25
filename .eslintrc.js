@@ -4,5 +4,9 @@ module.exports = {
 
   rules: {
     // override rules
+    "prettier/prettier": [
+      "error",
+      { endOfLine: "auto" }
+    ]
   },
 };
