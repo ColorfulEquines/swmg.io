@@ -1,4 +1,5 @@
 import { defaultTheme } from "vuepress";
+const sidebar = require("./sidebar.js");
 
 export default {
   title: "FateWeaver",
@@ -11,14 +12,7 @@ export default {
       { text: "Guide", link: "/guide/" },
       { text: "Add to Discord", link: "/invite/" },
     ],
-    // Links that will appear in side bar
-    sidebar: {
-      "/guide/": [
-        {
-          text: "Getting Started",
-        },
-      ],
-    },
+    sidebar,
 
     repo: "colorfulequines/fateweaver.io",
   }),
