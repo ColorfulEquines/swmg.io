@@ -1,0 +1,29 @@
+{
+  "name": "fateweaver.io",
+  "version": "0.0.1",
+  "description": "Website for FateWeaver discord bot",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "set NODE_OPTIONS=--openssl-legacy-provider && vuepress dev docs",
+    "docs:build": "set NODE_OPTIONS=--openssl-legacy-provider && vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colorfulequines/fateweaver.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colorfulequines/fateweaver.io/issues"
+  },
+  "homepage": "https://github.com/colorfulequines/fateweaver.io#readme",
+  "dependencies": {
+    "vuepress": "^1.9.9"
+  },
+  "devDependencies": {
+    "eslint-config-vuepress": "^4.1.1"
+  }
+}
