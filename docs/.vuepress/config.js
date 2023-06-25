@@ -16,5 +16,7 @@ module.exports = {
         title: "Getting Started",
       },
     ],
+
+    repo: "colorfulequines/fateweaver.io",
   },
 };
