@@ -1,5 +1,5 @@
 {
-  "name": "fateweaver.io",
+  "name": "swmg.io",
   "version": "0.0.1",
   "description": "Website for FateWeaver discord bot",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/colorfulequines/fateweaver.io.git"
+    "url": "git+https://github.com/colorfulequines/swmg.io.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/colorfulequines/fateweaver.io/issues"
+    "url": "https://github.com/colorfulequines/swmg.io/issues"
   },
-  "homepage": "https://github.com/colorfulequines/fateweaver.io#readme",
+  "homepage": "https://github.com/colorfulequines/swmg.io#readme",
   "devDependencies": {
     "eslint-config-vuepress": "^4.1.1",
     "vuepress": "^2.0.0-beta.63"

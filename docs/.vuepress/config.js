@@ -14,6 +14,6 @@ export default {
     ],
     sidebar,
 
-    repo: "colorfulequines/fateweaver.io",
+    repo: "colorfulequines/swmg.io",
   }),
 };
