@@ -5,5 +5,8 @@ node_modules
 .temp
 .cache
 
+# VuePress build directory
+dist/
+
 # VSCode Folder
 .vscode/
