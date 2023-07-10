@@ -1,7 +1,7 @@
 {
   "name": "swmg.io",
   "version": "0.0.1",
-  "description": "Website for FateWeaver discord bot",
+  "description": "Website for swmg discord bot",
   "main": "index.js",
   "directories": {
     "doc": "docs"
