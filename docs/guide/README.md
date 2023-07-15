@@ -1,12 +1,12 @@
 # Introduction
 
-FateWeaver is a Discord bot for dice rolling, initiative tracking and more! You can use it for simple games or use the complex dice expressions for more complicated DnD sessions.
+SWMG is a Discord bot for dice rolling, initiative tracking and more! You can use it for simple games or use the complex dice expressions for more complicated DnD sessions.
 
 # Getting Started
 
-To use FateWeaver, all you have to do is [invite it](/invite) to your Discord server.
+To use SWMG, all you have to do is [invite it](/invite) to your Discord server.
 
-FateWeaver should have the following permissions for all features to work and the best overall experience;
+SWMG should have the following permissions for all features to work and the best overall experience;
 - `Read Messages`
 - `Send Messages`
 - `Embed Links`

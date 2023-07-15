@@ -2,11 +2,11 @@
 home: true
 heroImage: /hero.png
 features:
-- title: Simplicity First
-  details: Minimal setup with markdown-centered project structure helps you focus on writing.
-- title: Vue-Powered
-  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
-- title: Performant
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+- title: Advanced Dice Expressions
+  details: Capable of supporting any type of roll, multiple rolls, and more!
+- title: Initiative Tracking
+  details: Fast way to keep track of your characters, their initiative roll, and who's turn it is.
+- title: Global Character System
+  details: Use your characters for multiple games? Not a worry! We allow you to use your created characters in any server.
 footer: Copyright © 2023 ColorfulEquines
 ---

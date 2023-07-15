@@ -12,6 +12,8 @@ Here you can find a list of all the commands for the bot
 | **`/initiative create`** *[title]* |  Creates a new [initiative](/guide/commands/initiative/) session with the provided title. |
 | **`/initiative end`** *[title]* |  End a [initiative](/guide/commands/initiative/) session with the provided title. |
 | **`/initiative join`** *[initiative_name] [character_name]* |  Joins a [initiative](/guide/commands/initiative/) session with the provided [character](/guide/commands/character). |
+| **`/initiative remove`** *[initiative_name] [character_name]* |  Remove a [character](/guide/commands/character) from the provided [initiative](/guide/commands/initiative/) session. |
+| **`/initiative edit`** *[initiative_name] [character_name] [roll]* |  Modify a [character's](/guide/commands/character) roll in the provided [initiative](/guide/commands/initiative/) session. |
 
 ## Character
 | Command     | Description |
@@ -25,3 +27,9 @@ Here you can find a list of all the commands for the bot
 | ----------- | ----------- |
 | **`/ping`** | Replies with 'pong' |
 | **`/pong`** | Replies with 'ping |
+
+## Information
+| Command     | Description |
+| ----------- | ----------- |
+| **`/help`** | View information about how to use the bot! |
+| **`/info`** | Displays info about the bot. |
